@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saheb Singh Sandhu</h1>
+<h1 align="center">Hi 👋 I'm Saheb Singh Sandhu</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 
 - 🌱 I’m currently pursuing B.E. in **Electronics Engineering**
