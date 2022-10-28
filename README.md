@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Saheb Singh Sandhu</h1>
-<h3 align="center">ELECTRONICS AND COMP SCI ENGINEERING UNDERGRAD</h3>
+<h3 align="center">ELECTRONICS ENGINEERING UNDERGRAD</h3>
 
 ![](https://komarev.com/ghpvc/?username=sahebsinghh)
 
