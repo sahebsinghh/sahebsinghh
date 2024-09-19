@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋 I'm Saheb Singh Sandhu</h1>
-<h3 align="center">ELECTRONICS ENGINEER</h3>
 
 ![](https://komarev.com/ghpvc/?username=sahebsinghh)
 
 
-- 🌱 I’m currently pursuing B.E. in **Electronics Engineering**
+- 🌱 I’m currently pursuing B.E. in **MSc. Computing (Data Analytics)** @ Dublin City University
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
