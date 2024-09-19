@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=sahebsinghh)
 
 
-- 🌱 I’m currently pursuing B.E. in **MSc. Computing (Data Analytics)** @ Dublin City University
+- 🌱 I’m currently pursuing MSc. in **Computing (Data Analytics)** @ Dublin City University
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
